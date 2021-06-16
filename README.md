@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Harsh Pailkar
-- 👀 I’m interested in Web Development, Artificial Intelligence, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning Front as well as Back End Development languages.
+- 👋 Hi, I’m ... Harsh Pailkar
+- 👀 I’m interested in ... web development, artificial intelligence, machine learning and deep learning.
+- 🌱 I’m currently learning ... javascript, html and css.
 - 📫 Reach me at harsh.pailkar@gmail.com
+- 
