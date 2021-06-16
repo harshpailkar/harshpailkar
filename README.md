@@ -2,4 +2,3 @@
 - 👀 I’m interested in ... web development, artificial intelligence, machine learning and deep learning.
 - 🌱 I’m currently learning ... javascript, html and css.
 - 📫 Reach me at harsh.pailkar@gmail.com
-- 
