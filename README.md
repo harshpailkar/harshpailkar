@@ -5,3 +5,5 @@
 - 😄 Pronouns: he/him.
 - 🌟 Fun fact: Coffee and Music is all I need.
 - 😇 Gonna update this readme file soon.
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshpailkar&show_icons=true&count_private=true&theme=gruvbox_light)
