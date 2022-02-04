@@ -3,8 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-HarshPailkar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/harsh-pailkar)](https://www.linkedin.com/in/harsh-pailkar/)
 [![Twitter Badge](http://img.shields.io/badge/-@harsh_pailkar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/harsh_pailkar)](https://twitter.com/harsh_pailkar) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:harsh.pailkar@gmail.com)](mailto:harsh.pailkar@gmail.com)
-<br />
-![](https://visitor-badge.glitch.me/badge?page_id=harshpailkar.harshpailkar)  <br>
+<br /> <br>
 
 - 👀 I’m interested in ... Mobile Development and AI.
 - 🌱 I’m currently learning ... Flutter and Java.
