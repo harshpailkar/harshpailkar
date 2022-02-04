@@ -6,7 +6,7 @@
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)  <br>
 
-- 👀 I’m interested in ... Movie Development and AI.
+- 👀 I’m interested in ... Mobile Development and AI.
 - 🌱 I’m currently learning ... Flutter and Java.
 - 😄 Pronouns: he/him.
 - 🌟 Fun fact: Keyboardist and Artist in my freetime.
