@@ -6,9 +6,8 @@
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)  <br>
 
-- 👀 I’m interested in ... app development and AI.
+- 👀 I’m interested in ... Movie Development and AI.
 - 🌱 I’m currently learning ... Flutter and Java.
-- 📫 Reach me at ... harsh.pailkar@gmail.com.
 - 😄 Pronouns: he/him.
 - 🌟 Fun fact: Keyboardist and Artist in my freetime.
 - 😇 Gonna update this readme file soon.
