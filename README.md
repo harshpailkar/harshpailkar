@@ -6,7 +6,7 @@
 <br /> <br>
 
 - 👀 I’m interested in ... Mobile Development and AI.
-- 🌱 I’m currently learning ... Flutter and Java.
+- 🌱 I’m currently learning ... iOS Development.
 - 😄 Pronouns: he/him.
 - 🌟 Fun fact: Keyboardist and Artist in my freetime.
 - 😇 Gonna update this readme file soon.
