@@ -20,7 +20,7 @@
 - 🛠 Proficient with iOS & Flutter Development, WPF .NET, Web Development and Blockchain frameworks
 - 🌱 Currently learning more about the Blockchain Technology
 - 👯 Looking to collaborate on projects
-- 💬 Besides programming, I also play the piano
+- 💬 Besides programming, I also play the piano, write blogs and draw.
 - 🌐 Check out my website https://harshpailkar.github.io/
 - 📫 Shoot me a mail at `harsh.pailkar@gmail.com`
 - 🤖 Am I testing my code? Or is it testing me...
