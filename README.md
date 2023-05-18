@@ -41,4 +41,4 @@
     </td>
   </tr>
 </table>
-[![GitHub Streak](https://streak-stats.demolab.com/harshpailkar=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshpailkar)](https://git.io/streak-stats)
