@@ -16,12 +16,12 @@
 
 ---
     
-- 🎓 Pre-final year student at VIT
-- 🛠 Proficient with iOS & Flutter Development, WPF .NET, Web Development and Blockchain frameworks
-- 🌱 Currently learning more about the Blockchain Technology
-- 👯 Looking to collaborate on projects
+- 🎓 Final-year CSE undergrad at VIT
+- 🛠 Web3 developer and blockchain researcher who occationaly digresses to machine learning and AI. 
+- 🌱 Currently upskilling, building projects and conducting research.
+- 👯 Looking to collaborate on hackathon projects.
 - 💬 Besides programming, I also play the piano, write blogs and draw.
-- 🌐 Check out my website https://harshpailkar.github.io/
+- 🌐 Check out my website (https://harsh-pailkar.gitbook.io/harsh-pailkar)
 - 📫 Shoot me a mail at `harsh.pailkar@gmail.com`
 - 🤖 Am I testing my code? Or is it testing me...
 
